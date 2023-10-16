@@ -1,4 +1,4 @@
-GAN (Generative Adversarial Networks) Repository
+# GAN (Generative Adversarial Networks) Repository
 
 Welcome to the GAN (Generative Adversarial Networks) repository! This repository is a comprehensive resource for understanding and implementing GANs, a fascinating class of machine learning models used for generative tasks.
 
